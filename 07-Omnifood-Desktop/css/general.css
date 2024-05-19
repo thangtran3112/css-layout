@@ -30,6 +30,7 @@ Paragraph default: 1.6
 
 - Shades: 
 #cf711f
+#e45d1e
 #45260a
 
 - Accents:
@@ -190,7 +191,7 @@ body {
 
 .btn--full:hover,
 .btn--full:active {
-  background-color: #cf711f;
+  background-color: #e45d1e;
 }
 
 .btn--outline:link,
